@@ -1,9 +1,0 @@
-# Material: konchi-3d-dot_AtlasMaterial
-newmtl konchi-3d-dot_AtlasMaterial
-Ka 0.00 0.00 0.00
-Kd 1.00 1.00 1.00
-Ks 0.00 0.00 0.00
-d 1.00
-illum 1
-map_Kd Materials/konchi-3d-dot_Atlas-tex.png
-# # #
